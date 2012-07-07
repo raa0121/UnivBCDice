@@ -37,7 +37,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BCDice.cs" />
-    <Compile Include="Dice.cs" />
     <Compile Include="DiceBot.cs" />
     <Compile Include="RecordofSteam.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
